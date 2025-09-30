@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkiotapp"]=globalThis["webpackChunkiotapp"]||[]).push([[657],{290:(e,a,n)=>{n.r(a),n.d(a,{default:()=>i});var t=n(1758);function r(e,a,n,r,s,o){const c=(0,t.g2)("RegisterPage");return(0,t.uX)(),(0,t.Wv)(c)}var s=n(6093);const o={name:"IndexPage",components:{RegisterPage:s.A}};var c=n(2807);const g=(0,c.A)(o,[["render",r]]),i=g}}]);
